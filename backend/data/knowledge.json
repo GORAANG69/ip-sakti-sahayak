@@ -1,0 +1,65 @@
+[
+  {
+    "id": "demo-patent",
+    "title": "Demo: Patentability and novelty overview",
+    "authority": "Demo Knowledge Source",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Demo evidence: patent-oriented analysis commonly considers novelty, inventive step and industrial applicability. This record is illustrative demo content and must be verified against current official sources.",
+    "source_url": "https://ipindia.gov.in/"
+  },
+  {
+    "id": "demo-tk",
+    "title": "Demo: Traditional knowledge and patent investigation",
+    "authority": "Demo Knowledge Source",
+    "jurisdiction": "India",
+    "domain": "Traditional Knowledge",
+    "content": "Demo evidence: an innovation involving traditional knowledge may require investigation into provenance, prior disclosure and relevant Indian frameworks. This record is illustrative demo content.",
+    "source_url": "https://www.tkdl.res.in/"
+  },
+  {
+    "id": "demo-abs",
+    "title": "Demo: Biodiversity and ABS consideration",
+    "authority": "Demo Knowledge Source",
+    "jurisdiction": "India",
+    "domain": "Biodiversity",
+    "content": "Demo evidence: innovations based on biological resources can require a biodiversity and access-and-benefit-sharing review. Exact obligations depend on the facts and applicable current law.",
+    "source_url": "https://www.nbaindia.org/"
+  },
+  {
+    "id": "demo-trademark",
+    "title": "Demo: Trademark basics",
+    "authority": "Demo Knowledge Source",
+    "jurisdiction": "India",
+    "domain": "Trademark",
+    "content": "Demo evidence: trademarks can protect signs used to distinguish goods or services. Distinctiveness and conflicts with earlier marks are important investigation areas.",
+    "source_url": "https://ipindia.gov.in/"
+  },
+  {
+    "id": "demo-wipo",
+    "title": "Demo: WIPO and international IP pathways",
+    "authority": "Demo Knowledge Source",
+    "jurisdiction": "International",
+    "domain": "International IP",
+    "content": "Demo evidence: WIPO resources can help users understand international IP systems and filing pathways. Country-specific requirements must be checked with the relevant authority.",
+    "source_url": "https://www.wipo.int/"
+  },
+  {
+    "id": "demo-pct",
+    "title": "Demo: PCT pathway",
+    "authority": "Demo Knowledge Source",
+    "jurisdiction": "International",
+    "domain": "PCT",
+    "content": "Demo evidence: the Patent Cooperation Treaty provides an international filing framework. A PCT filing does not itself grant a worldwide patent; national or regional procedures remain relevant.",
+    "source_url": "https://www.wipo.int/pct/en/"
+  },
+  {
+    "id": "demo-copyright",
+    "title": "Demo: Copyright overview",
+    "authority": "Demo Knowledge Source",
+    "jurisdiction": "India",
+    "domain": "Copyright",
+    "content": "Demo evidence: copyright generally concerns original expression rather than an abstract idea. Exact scope depends on the work and applicable law.",
+    "source_url": "https://copyright.gov.in/"
+  }
+]
