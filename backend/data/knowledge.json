@@ -1,0 +1,740 @@
+[
+  {
+    "id": "in-pat-overview",
+    "title": "Indian Patent System Overview & Criteria for Patentability",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Under Section 2(1)(j) of the Patents Act 1970, an invention must be a new product or process involving an inventive step (non-obvious to a person skilled in the art) and capable of industrial application. Patent rights are territorial and valid for 20 years from the filing date.",
+    "source_url": "https://ipindia.gov.in/patents.htm"
+  },
+  {
+    "id": "in-pat-sec3d",
+    "title": "Section 3(d): Non-Patentability of Known Substance Derivatives",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Section 3(d) prohibits patenting mere discoveries of new forms of known substances unless they demonstrate significantly enhanced therapeutic efficacy. For formulations, salts, esters, polymorphs, and particle-size modifications, comparative efficacy data against the base substance is mandatory.",
+    "source_url": "https://ipindia.gov.in/manual-patents.htm"
+  },
+  {
+    "id": "in-pat-sec3e",
+    "title": "Section 3(e): Admixtures Lacking Synergism are Excluded",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Section 3(e) excludes substances obtained by a mere admixture resulting only in aggregation of the properties of the components. Botanical and multi-ingredient formulations must submit empirical experimental evidence establishing true unexpected synergy between combined components.",
+    "source_url": "https://ipindia.gov.in/manual-patents.htm"
+  },
+  {
+    "id": "in-pat-sec3p",
+    "title": "Section 3(p): Traditional Knowledge Statutory Exclusion",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Traditional Knowledge",
+    "content": "Section 3(p) bars patent grants for inventions which in effect are traditional knowledge or an aggregation or duplication of known properties of traditionally known components. Novel extractions or synergistic combinations must clearly substantiate technical departure from codified traditional usage.",
+    "source_url": "https://ipindia.gov.in/manual-patents.htm"
+  },
+  {
+    "id": "in-pat-sec3k",
+    "title": "Section 3(k): Software, Mathematical Methods & Business Models",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Section 3(k) excludes mathematical methods, business methods, computer programs per se, and algorithms from patentability. To establish eligibility, software-related inventions must demonstrate a technical contribution or interaction with hardware causing a real-world technical effect.",
+    "source_url": "https://ipindia.gov.in/guidelines-patents.htm"
+  },
+  {
+    "id": "in-pat-provisional",
+    "title": "Filing a Provisional Specification (Form 2)",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "A Provisional Specification can be filed to establish an immediate priority date when an invention is still under refinement. The applicant must file the Complete Specification within a strict, non-extendable 12-month period from the provisional filing date under Section 9.",
+    "source_url": "https://ipindia.gov.in/patent-forms.htm"
+  },
+  {
+    "id": "in-pat-complete-spec",
+    "title": "Complete Specification Requirements & Best Method Disclosure",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Under Section 10, a complete specification must fully and particularly describe the invention, its operation, and the best method of performance known to the applicant. The claims must define the scope of protection clearly, concisely, and be supported by the description and experimental examples.",
+    "source_url": "https://ipindia.gov.in/manual-patents.htm"
+  },
+  {
+    "id": "in-pat-prior-art-search",
+    "title": "Prior Art Search & InPASS Database Usage",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Prior to filing, applicants should search the Indian Patent Advanced Search System (InPASS) and global databases (WIPO Patentscope, Google Patents, Espacenet). Any publication, public use, oral disclosure, or sale anywhere in the world prior to the priority date destroys novelty.",
+    "source_url": "https://ipindia.gov.in/inpass.htm"
+  },
+  {
+    "id": "in-pat-form18-fer",
+    "title": "Request for Examination (Form 18) and First Examination Report (FER)",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "A patent application is examined only upon submitting Form 18 within 48 months (or 31 months under amended rules) of priority. The Controller issues a First Examination Report (FER). The applicant must respond to all objections within 6 months, extendable by 3 months on request.",
+    "source_url": "https://ipindia.gov.in/patent-forms.htm"
+  },
+  {
+    "id": "in-pat-expedited-exam",
+    "title": "Expedited Examination (Form 18A) for Startups and Women Innovators",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Rule 24C allows expedited examination (Form 18A) for DPIIT-recognized startups, small entities, female applicants, government departments, and applicants selecting India as International Searching Authority. Expedited examination often yields an examination report within a few months.",
+    "source_url": "https://ipindia.gov.in/expedited-examination.htm"
+  },
+  {
+    "id": "in-pat-pregrant-opp",
+    "title": "Pre-Grant Opposition under Section 25(1)",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Any person may file a pre-grant opposition under Section 25(1) after publication and prior to the grant of a patent. Common grounds include lack of novelty, obviousness, non-patentability under Section 3, insufficiency of description, and failure to disclose source of biological material.",
+    "source_url": "https://ipindia.gov.in/manual-patents.htm"
+  },
+  {
+    "id": "in-pat-postgrant-opp",
+    "title": "Post-Grant Opposition under Section 25(2)",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Any 'person interested' may initiate post-grant opposition within 12 months from the date of publication of the patent grant. An Opposition Board is constituted to examine evidence and submit a recommendation to the Controller prior to a formal hearing.",
+    "source_url": "https://ipindia.gov.in/manual-patents.htm"
+  },
+  {
+    "id": "in-pat-biological-source",
+    "title": "Mandatory Disclosure of Biological Material & NBA Clearance",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Biodiversity",
+    "content": "Section 10(4)(d)(ii) mandates that applicants disclose the source and geographical origin of biological material used in an invention. If the biological resource is obtained from India, approval from the National Biodiversity Authority (NBA) is compulsory before grant.",
+    "source_url": "https://ipindia.gov.in/manual-patents.htm"
+  },
+  {
+    "id": "in-pat-patent-addition",
+    "title": "Patent of Addition under Section 54",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Where an applicant develops an improvement or modification of an earlier invention, they can file a Patent of Addition. No separate renewal fees are payable for the patent of addition, and it expires concurrently with the main patent.",
+    "source_url": "https://ipindia.gov.in/manual-patents.htm"
+  },
+  {
+    "id": "in-pat-form27-working",
+    "title": "Commercial Working of Patents (Form 27 Statement)",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Patentees and licensees must submit Form 27 once every three financial years (under amended 2024 rules) declaring whether the patented invention has been worked on a commercial scale in India, and whether the public demand is met at a reasonable price.",
+    "source_url": "https://ipindia.gov.in/patent-rules.htm"
+  },
+  {
+    "id": "in-pat-compulsory-licensing",
+    "title": "Compulsory Licensing Provisions under Section 84",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Any person may apply for a compulsory license after 3 years from grant if: reasonable public requirements are not satisfied, the invention is not available at a reasonably affordable price, or the patent is not commercially worked in India.",
+    "source_url": "https://ipindia.gov.in/manual-patents.htm"
+  },
+  {
+    "id": "in-pat-grace-period",
+    "title": "Section 31: Exceptions to Public Anticipation (Grace Period)",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Under Section 31, disclosure of an invention at a government-notified industrial exhibition or before a learned society does not destroy novelty, provided the patent application is formally filed within 12 months of such public exhibition.",
+    "source_url": "https://ipindia.gov.in/manual-patents.htm"
+  },
+  {
+    "id": "in-pat-renewals",
+    "title": "Patent Maintenance Fees & Renewal Schedule",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "To keep a patent in force for its 20-year term, renewal fees must be paid starting from the expiration of the second year. Discounted advance payments for multi-year maintenance are eligible for statutory fee concessions under the 2024 Patent Rules.",
+    "source_url": "https://ipindia.gov.in/patent-fees.htm"
+  },
+  {
+    "id": "in-pat-startup-subsidies",
+    "title": "Fee Concessions & SIPP Scheme for Startups and MSMEs",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Startups and MSMEs receive an 80% rebate on statutory patent filing fees and 50% rebate on trademark fees. Under the Scheme for Facilitating Start-Ups and MSMEs (SIPP), registered patent facilitators provide legal assistance with government-covered professional costs.",
+    "source_url": "https://ipindia.gov.in/sipp.htm"
+  },
+  {
+    "id": "in-pat-foreign-filing-sec39",
+    "title": "Section 39: Foreign Filing License (FFL) for Indian Residents",
+    "authority": "Official Guidance (IP India / Indian Patent Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Patent",
+    "content": "Indian residents must either first file their patent application in India or obtain written permission (Foreign Filing License) from the Controller before filing outside India. Violations can lead to severe criminal penalties or abandonment of Indian rights.",
+    "source_url": "https://ipindia.gov.in/manual-patents.htm"
+  },
+  {
+    "id": "intl-wipo-pct-overview",
+    "title": "Patent Cooperation Treaty (PCT) International Filing System",
+    "authority": "Official Guidance (WIPO / International Bureau - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Patent",
+    "content": "The PCT administered by WIPO allows an applicant to seek patent protection in over 155 member countries by filing a single international application. Filing a PCT application delays national entry costs while obtaining an International Search Report (ISR) and Written Opinion.",
+    "source_url": "https://www.wipo.int/pct/en/"
+  },
+  {
+    "id": "intl-pct-timeline",
+    "title": "PCT International Phase Timeline & 30/31-Month National Entry",
+    "authority": "Official Guidance (WIPO / International Bureau - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Patent",
+    "content": "From the priority date: International publication occurs at 18 months. Applicants typically have up to 30 or 31 months from the priority date to enter the National Phase in designated countries (e.g. India, US, Europe, Japan) and pay localized examination and translation fees.",
+    "source_url": "https://www.wipo.int/pct/en/faqs/faqs.html"
+  },
+  {
+    "id": "intl-paris-convention",
+    "title": "Paris Convention: 12-Month Right of Priority",
+    "authority": "Official Guidance (WIPO - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Patent",
+    "content": "Under the Paris Convention for the Protection of Industrial Property, an applicant filing in one member state has a 12-month priority window to file in other member countries while retaining the original priority date for novelty and prior-art evaluation.",
+    "source_url": "https://www.wipo.int/treaties/en/ip/paris/"
+  },
+  {
+    "id": "intl-patentscope-search",
+    "title": "WIPO PATENTSCOPE Global Prior Art Database",
+    "authority": "Official Guidance (WIPO - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Patent",
+    "content": "PATENTSCOPE provides access to international PCT applications and millions of national patent documents worldwide. Searching prior art internationally is essential to evaluate global novelty and freedom-to-operate (FTO) before commercial export.",
+    "source_url": "https://patentscope.wipo.int/"
+  },
+  {
+    "id": "intl-epo-problem-solution",
+    "title": "European Patent Office (EPO): Problem-Solution Approach",
+    "authority": "Official Guidance (EPO / International - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Patent",
+    "content": "The EPO assesses inventive step using the 3-stage Problem-Solution Approach: (1) determining the closest prior art, (2) identifying the distinguishing feature and objective technical problem, and (3) considering whether the claimed solution was obvious to the person skilled in the art.",
+    "source_url": "https://www.epo.org/en/legal/guidelines-epc"
+  },
+  {
+    "id": "intl-uspto-ids-duty",
+    "title": "USPTO Duty of Disclosure: Information Disclosure Statement (IDS)",
+    "authority": "Official Guidance (USPTO / International - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Patent",
+    "content": "Under US 37 CFR 1.56, patent applicants and practitioners have an uncompromising duty of candor to disclose all known prior art material to patentability to the USPTO via an Information Disclosure Statement (IDS). Concealment can render a US patent unenforceable.",
+    "source_url": "https://www.uspto.gov/patents"
+  },
+  {
+    "id": "intl-budapest-microorganisms",
+    "title": "Budapest Treaty on Deposit of Microorganisms",
+    "authority": "Official Guidance (WIPO - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Patent",
+    "content": "When an invention involves a biological material or microorganism not publicly accessible and incapable of full written description, the Budapest Treaty allows deposit with an International Depositary Authority (IDA) (such as MTCC in Chandigarh, India) to satisfy disclosure requirements.",
+    "source_url": "https://www.wipo.int/treaties/en/registration/budapest/"
+  },
+  {
+    "id": "intl-wipo-ipc-classification",
+    "title": "International Patent Classification (IPC) System",
+    "authority": "Official Guidance (WIPO - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Patent",
+    "content": "IPC divides technology into eight primary sections (A to H). Botanical and herbal preparations commonly fall under A61K 36/00 (medicinal preparations of undetermined constitution from plants). Proper classification enables targeted prior-art landscape mapping.",
+    "source_url": "https://www.wipo.int/classifications/ipc/en/"
+  },
+  {
+    "id": "intl-trips-agreement",
+    "title": "WTO TRIPS Agreement: Global Minimum IP Standards",
+    "authority": "Official Guidance (WTO / WIPO - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Patent",
+    "content": "The Trade-Related Aspects of Intellectual Property Rights (TRIPS) agreement sets minimum standards across WTO member nations, mandating 20-year patent terms and patentability for both products and processes across all fields of technology subject to public order exceptions.",
+    "source_url": "https://www.wto.org/english/tratop_e/trips_e/trips_e.htm"
+  },
+  {
+    "id": "intl-wipo-green",
+    "title": "WIPO GREEN: Sustainable Technology Marketplace & Acceleration",
+    "authority": "Official Guidance (WIPO - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Patent",
+    "content": "WIPO GREEN connects green and climate-friendly technology innovators with commercial partners worldwide. Environmentally benign formulations and biological extraction methods can gain international visibility and licensing opportunities through the platform.",
+    "source_url": "https://www3.wipo.int/wipogreen/"
+  },
+  {
+    "id": "intl-fto-analysis",
+    "title": "Freedom to Operate (FTO) Search Strategy",
+    "authority": "Official Guidance (International IP Practice - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Patent",
+    "content": "An FTO analysis evaluates whether producing, importing, or selling a product infringes valid patent claims in target export jurisdictions. Unlike patentability searches (which look at prior art), FTO searches focus strictly on in-force granted patent claims.",
+    "source_url": "https://www.wipo.int/sme/en/documents/freedom_to_operate.html"
+  },
+  {
+    "id": "intl-wipo-arbitration",
+    "title": "WIPO Arbitration and Mediation Center for Cross-Border Disputes",
+    "authority": "Official Guidance (WIPO - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Patent",
+    "content": "The WIPO Arbitration and Mediation Center provides alternative dispute resolution (ADR) procedures for cross-border IP and commercial disputes, licensing disagreements, and technology transfer conflicts, offering neutral and confidential resolution.",
+    "source_url": "https://www.wipo.int/amc/en/"
+  },
+  {
+    "id": "in-tm-basics",
+    "title": "Trademark Registration under Trade Marks Act 1999",
+    "authority": "Official Guidance (IP India / Trade Marks Registry - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Trademark",
+    "content": "Under the Trade Marks Act 1999, a trademark protects signs capable of graphical representation that distinguish the goods or services of one enterprise from those of others. Registration provides exclusive rights for 10 years, renewable indefinitely.",
+    "source_url": "https://ipindia.gov.in/trademarks.htm"
+  },
+  {
+    "id": "in-tm-sec9-absolute",
+    "title": "Section 9: Absolute Grounds for Refusal of Trademarks",
+    "authority": "Official Guidance (IP India / Trade Marks Registry - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Trademark",
+    "content": "Section 9 prohibits registration of marks that lack distinctiveness, are purely descriptive of characteristics (such as quality, quantity, purpose, or geographical origin), or have become customary in current language. Coined or arbitrary names have the highest registrability.",
+    "source_url": "https://ipindia.gov.in/manual-trademarks.htm"
+  },
+  {
+    "id": "in-tm-sec11-relative",
+    "title": "Section 11: Relative Grounds for Refusal (Prior Conflicting Marks)",
+    "authority": "Official Guidance (IP India / Trade Marks Registry - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Trademark",
+    "content": "Section 11 bars registration of a mark if it is identical or deceptively similar to an earlier registered mark for identical or similar goods/services, creating a likelihood of consumer confusion. Comprehensive phonetic and visual searches on IP India's portal are vital.",
+    "source_url": "https://ipindia.gov.in/manual-trademarks.htm"
+  },
+  {
+    "id": "in-tm-nice-classes",
+    "title": "Nice Classification: Trademark Classes for Products and Formulations",
+    "authority": "Official Guidance (IP India / Trade Marks Registry - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Trademark",
+    "content": "Trademarks are classified into 45 classes under the Nice Agreement. Botanical formulations, pharmaceuticals, and herbal supplements belong in Class 5; cosmetics and herbal skin-care formulations belong in Class 3; natural agricultural products belong in Class 31.",
+    "source_url": "https://ipindia.gov.in/classification-of-goods.htm"
+  },
+  {
+    "id": "in-tm-madrid-protocol",
+    "title": "Madrid Protocol: International Trademark Filing from India",
+    "authority": "Official Guidance (WIPO / IP India - Demo Summary)",
+    "jurisdiction": "Both",
+    "domain": "Trademark",
+    "content": "Indian trademark owners with a national trademark application or registration (basic mark) can file an international trademark application under the Madrid Protocol through the Trade Marks Registry to protect their brand across up to 130 countries in a unified process.",
+    "source_url": "https://www.wipo.int/madrid/en/"
+  },
+  {
+    "id": "in-tm-opposition",
+    "title": "Section 21: Trademark Opposition Procedure (Form TM-O)",
+    "authority": "Official Guidance (IP India / Trade Marks Registry - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Trademark",
+    "content": "Once a trademark is advertised in the Trade Marks Journal, third parties have 4 months to file a notice of opposition (Form TM-O). The applicant must submit a counter-statement within 2 months of receiving the notice, failing which the application is deemed abandoned.",
+    "source_url": "https://ipindia.gov.in/manual-trademarks.htm"
+  },
+  {
+    "id": "in-tm-passing-off",
+    "title": "Protection of Unregistered Marks via Common Law Passing Off",
+    "authority": "Official Guidance (Indian Trademark Law - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Trademark",
+    "content": "Even without trademark registration, an established brand can protect its commercial goodwill against misrepresentation under common law passing off (Section 27(2)). The plaintiff must prove goodwill/reputation, misrepresentation by defendant, and resulting damage.",
+    "source_url": "https://ipindia.gov.in/manual-trademarks.htm"
+  },
+  {
+    "id": "in-tm-well-known",
+    "title": "Well-Known Trademark Recognition under Rule 124",
+    "authority": "Official Guidance (IP India / Trade Marks Registry - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Trademark",
+    "content": "Under Rule 124 of the Trade Mark Rules 2017, a brand owner can apply to the Registrar to have their mark officially declared a 'well-known trademark.' Once recognized, the mark is protected across all 45 classes, even for completely unrelated goods.",
+    "source_url": "https://ipindia.gov.in/manual-trademarks.htm"
+  },
+  {
+    "id": "in-tm-tm-vs-r",
+    "title": "Use of TM Symbol vs Registered (R) Symbol",
+    "authority": "Official Guidance (IP India / Trade Marks Registry - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Trademark",
+    "content": "The 'TM' symbol indicates an unregistered trademark or a pending application, notifying competitors of intent to claim trademark rights. The registered circle-R symbol can only be used legally once the Registration Certificate has been issued by the Registrar.",
+    "source_url": "https://ipindia.gov.in/manual-trademarks.htm"
+  },
+  {
+    "id": "in-tm-collective-cert",
+    "title": "Collective Marks and Certification Trademarks",
+    "authority": "Official Guidance (IP India - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Trademark",
+    "content": "Certification marks certify goods for origin, material, mode of manufacture, quality, or accuracy (e.g., AGMARK, Silk Mark). Collective marks distinguish goods belonging to members of an association. Both offer valuable brand pathways for agricultural and artisanal collectives.",
+    "source_url": "https://ipindia.gov.in/manual-trademarks.htm"
+  },
+  {
+    "id": "tk-tkdl-mission",
+    "title": "Traditional Knowledge Digital Library (TKDL) Pioneer Defense",
+    "authority": "Official Guidance (CSIR-TKDL / Govt of India - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Traditional Knowledge",
+    "content": "TKDL is a joint initiative of CSIR and the Ministry of AYUSH documenting classical Indian medicine texts (Ayurveda, Unani, Siddha, Sowa Rigpa) into structured patent classifications in five international languages. TKDL prevents misappropriation and bogus foreign patent grants.",
+    "source_url": "https://www.tkdl.res.in/"
+  },
+  {
+    "id": "tk-prior-art-database",
+    "title": "TKDL Access Agreements with Global Patent Offices",
+    "authority": "Official Guidance (CSIR-TKDL - Demo Summary)",
+    "jurisdiction": "Both",
+    "domain": "Traditional Knowledge",
+    "content": "India has signed TKDL access agreements with leading patent offices worldwide (USPTO, EPO, JPO, UKIPO, IP Australia, WIPO). Patent examiners use TKDL as prior art to reject bio-piracy patent applications claiming known traditional Indian remedies.",
+    "source_url": "https://www.tkdl.res.in/"
+  },
+  {
+    "id": "tk-landmark-turmeric-neem",
+    "title": "Landmark Bio-Piracy Revocations: Turmeric, Neem & Basmati",
+    "authority": "Official Guidance (CSIR / Ministry of Commerce - Demo Summary)",
+    "jurisdiction": "Both",
+    "domain": "Traditional Knowledge",
+    "content": "India successfully revoked foreign patents on wound healing using Turmeric (US Patent) and fungicidal properties of Neem (EPO patent) by furnishing documentary evidence of ancient traditional texts, establishing the global imperative of prior-art verification for botanical formulations.",
+    "source_url": "https://www.tkdl.res.in/"
+  },
+  {
+    "id": "tk-overcoming-sec3p",
+    "title": "Drafting Innovation Around Traditional Knowledge: Overcoming Section 3(p)",
+    "authority": "Official Guidance (Indian Patent Office Practice - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Traditional Knowledge",
+    "content": "To satisfy Section 3(p), the patent application must prove that the product/process is not a routine aggregation of known traditional remedies. Critical proof includes: novel extraction fractioning, specific non-traditional chemical synergy, or an entirely unexpected therapeutic mechanism.",
+    "source_url": "https://ipindia.gov.in/manual-patents.htm"
+  },
+  {
+    "id": "tk-defensive-disclosure",
+    "title": "Defensive Publication Strategy for Community Innovations",
+    "authority": "Official Guidance (WIPO / Traditional Knowledge - Demo Summary)",
+    "jurisdiction": "Both",
+    "domain": "Traditional Knowledge",
+    "content": "Publishing details of a traditional formulation or community preparation in recognized open technical databases or peer-reviewed journals establishes indisputable prior art, permanently preventing commercial competitors from patenting the formulation.",
+    "source_url": "https://www.wipo.int/tk/en/"
+  },
+  {
+    "id": "tk-wipo-igc",
+    "title": "WIPO Intergovernmental Committee (IGC) on Genetic Resources & TK",
+    "authority": "Official Guidance (WIPO - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Traditional Knowledge",
+    "content": "WIPO's IGC negotiates international legal instruments for the effective protection of genetic resources, traditional knowledge, and traditional cultural expressions. The historic 2024 WIPO Treaty mandates patent applicants to disclose the country of origin of genetic resources and TK.",
+    "source_url": "https://www.wipo.int/tk/en/igc/"
+  },
+  {
+    "id": "tk-pbr-registers",
+    "title": "People's Biodiversity Registers (PBRs) at Gram Panchayat Level",
+    "authority": "Official Guidance (National Biodiversity Authority - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Traditional Knowledge",
+    "content": "PBRs are statutory registers prepared by local Biodiversity Management Committees (BMCs) documenting comprehensive local biological resources and associated traditional knowledge. PBR records serve as authoritative evidence of prior art and community provenance.",
+    "source_url": "https://www.nbaindia.org/"
+  },
+  {
+    "id": "tk-codified-vs-oral",
+    "title": "Codified Systems vs Folk / Tribal Traditional Knowledge",
+    "authority": "Official Guidance (AYUSH & NBA Guidance - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Traditional Knowledge",
+    "content": "While codified systems (Ayurveda, Unani, Siddha) are systematically indexed in classical texts and the TKDL, uncodified tribal and folk remedies held orally by indigenous communities require careful Prior Informed Consent (PIC) and formal ABS agreements before research translation.",
+    "source_url": "https://www.ayush.gov.in/"
+  },
+  {
+    "id": "tk-bioprospecting-ethics",
+    "title": "Ethical Bioprospecting and Prior Informed Consent (PIC)",
+    "authority": "Official Guidance (Convention on Biological Diversity - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Traditional Knowledge",
+    "content": "Bioprospecting involving indigenous communities requires documented Prior Informed Consent (PIC) and Mutually Agreed Terms (MAT). Innovators must respect customary protocols, acknowledge community custodianship, and guarantee fair benefit sharing.",
+    "source_url": "https://www.cbd.int/traditional/"
+  },
+  {
+    "id": "tk-ayush-pharmacopoeia",
+    "title": "Ayurvedic Pharmacopoeia of India (API) Standards",
+    "authority": "Official Guidance (Pharmacopoeia Commission for Indian Medicine - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Traditional Knowledge",
+    "content": "The Ayurvedic Pharmacopoeia of India establishes legal quality standards for single drugs and compound formulations. Botanical patents referencing classical herbs must account for standardized API botanical identifiers, macroscopic/microscopic tests, and chemical assays.",
+    "source_url": "https://pcimconline.nic.in/"
+  },
+  {
+    "id": "abs-bda-overview",
+    "title": "Biological Diversity Act 2002: Objectives and Statutory Structure",
+    "authority": "Official Guidance (National Biodiversity Authority - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Biodiversity",
+    "content": "The Biological Diversity Act 2002 regulates access to Indian biological resources to ensure conservation, sustainable use, and fair and equitable sharing of benefits arising from their commercial utilization. It operates via NBA (national), SBB (state), and BMC (local panchayat).",
+    "source_url": "https://www.nbaindia.org/"
+  },
+  {
+    "id": "abs-sec6-ip-approval",
+    "title": "Section 6: Mandatory Prior Approval of NBA for Patent Applications",
+    "authority": "Official Guidance (National Biodiversity Authority - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Biodiversity",
+    "content": "Under Section 6(1), no person can apply for any IP right (inside or outside India) for any invention based on any research or information on a biological resource obtained from India without prior approval of the NBA via Form 3. Indian residents may file patent first, but must obtain NBA approval before grant.",
+    "source_url": "https://www.nbaindia.org/content/26/61/1/forms.html"
+  },
+  {
+    "id": "abs-form3-application",
+    "title": "NBA Form 3 Filing Process & Benefit Sharing Agreement",
+    "authority": "Official Guidance (National Biodiversity Authority - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Biodiversity",
+    "content": "Form 3 is submitted to the NBA along with complete details of the biological resource, its geographical location in India, and the patent application reference. Once approved, the applicant signs a formal Benefit Sharing Agreement with the NBA specifying royalty commitments upon commercialization.",
+    "source_url": "https://www.nbaindia.org/"
+  },
+  {
+    "id": "abs-benefit-sharing-calc",
+    "title": "Calculation of Benefit Sharing: 0.1% to 0.5% or Royalty Matrix",
+    "authority": "Official Guidance (NBA ABS Guidelines - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Biodiversity",
+    "content": "Under the ABS Guidelines 2014, commercial entities using biological resources pay benefit sharing to the NBA: typically 0.1% to 0.5% of ex-factory sales value (depending on turnover), or 2% to 5% of gross licensing fees if the patent is licensed or assigned to third parties.",
+    "source_url": "https://www.nbaindia.org/content/19/16/1/guidelines.html"
+  },
+  {
+    "id": "abs-sec3-foreign-entities",
+    "title": "Section 3: Access Approvals for Foreign Nationals and Entities (Form 1)",
+    "authority": "Official Guidance (National Biodiversity Authority - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Biodiversity",
+    "content": "Non-Indian citizens, non-residents, and companies incorporated outside India or having any non-Indian participation in share capital or management must obtain prior NBA approval (Form 1) before collecting or accessing any Indian biological resource for research or commercial utilization.",
+    "source_url": "https://www.nbaindia.org/"
+  },
+  {
+    "id": "abs-normally-traded-commodities",
+    "title": "Exemption for Normally Traded Commodities (Section 40)",
+    "authority": "Official Guidance (Ministry of Environment & Forests - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Biodiversity",
+    "content": "Section 40 exempts designated biological resources notified as 'Normally Traded Commodities' (NTCCs)—such as common spices, agricultural crops, and grains—from ABS provisions, provided they are traded solely as commodities and not accessed for patented research or extraction.",
+    "source_url": "https://www.nbaindia.org/"
+  },
+  {
+    "id": "abs-sbb-intimation",
+    "title": "State Biodiversity Boards (SBB): Form 1 Intimation for Indian Citizens",
+    "authority": "Official Guidance (State Biodiversity Boards - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Biodiversity",
+    "content": "Indian citizens and body corporates registered in India must give prior intimation to the concerned State Biodiversity Board (SBB) before accessing biological resources for commercial utilization. SBBs may levy economic benefit-sharing conditions.",
+    "source_url": "https://www.nbaindia.org/"
+  },
+  {
+    "id": "abs-nagoya-protocol",
+    "title": "Nagoya Protocol on Access and Benefit-Sharing",
+    "authority": "Official Guidance (Convention on Biological Diversity - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Biodiversity",
+    "content": "The Nagoya Protocol is a supplementary agreement to the CBD providing a transparent international legal framework for the fair and equitable sharing of benefits arising out of the utilization of genetic resources, including Internationally Recognized Certificates of Compliance (IRCC).",
+    "source_url": "https://www.cbd.int/abs/"
+  },
+  {
+    "id": "abs-penalties-noncompliance",
+    "title": "Penalties for Unauthorized Commercial Utilization under BDA",
+    "authority": "Official Guidance (National Biodiversity Authority - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Biodiversity",
+    "content": "Under the Biological Diversity Act, unauthorized commercial utilization or filing IP without NBA approval constitutes a serious statutory violation. Offenses are non-bailable and punishable with substantial financial penalties and potential revocation of the granted patent.",
+    "source_url": "https://www.nbaindia.org/"
+  },
+  {
+    "id": "abs-bda-amendment-2023",
+    "title": "Biological Diversity (Amendment) Act 2023 Key Changes",
+    "authority": "Official Guidance (Govt of India - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Biodiversity",
+    "content": "The 2023 Amendment decriminalized certain offenses in favor of financial penalties, exempted registered AYUSH practitioners and cultivated medicinal plant growers from SBB intimation, and clarified approval workflows for patent applications based on Indian biological resources.",
+    "source_url": "https://www.nbaindia.org/"
+  },
+  {
+    "id": "reg-ayush-manufacturing",
+    "title": "AYUSH Drug Manufacturing License under Drugs & Cosmetics Act",
+    "authority": "Official Guidance (Ministry of AYUSH - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Regulatory",
+    "content": "Commercial manufacturing of Ayurvedic, Siddha, or Unani formulations requires a manufacturing license issued by the State Licensing Authority under the Drugs and Cosmetics Act 1940 and Rules 1945, adhering to Schedule T Good Manufacturing Practices (GMP).",
+    "source_url": "https://www.ayush.gov.in/"
+  },
+  {
+    "id": "reg-schedule-t-gmp",
+    "title": "Schedule T: Good Manufacturing Practices (GMP) for ASU Formulations",
+    "authority": "Official Guidance (Ministry of AYUSH - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Regulatory",
+    "content": "Schedule T specifies factory premises, hygiene, raw material storage, batch processing, machinery, and quality control laboratories required for manufacturing ASU drugs. Compliance with Schedule T is verified through periodic statutory inspections.",
+    "source_url": "https://www.ayush.gov.in/"
+  },
+  {
+    "id": "reg-fssai-nutraceuticals",
+    "title": "FSSAI Nutraceutical Regulations 2022 for Health Supplements",
+    "authority": "Official Guidance (FSSAI - Food Safety and Standards Authority - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Regulatory",
+    "content": "Formulations marketed as food supplements, nutraceuticals, or botanical health extracts must comply with FSSAI (Health Supplements, Nutraceuticals, Food for Special Dietary Use) Regulations 2022. Permissible plant parts, daily usage limits, and RDA caps must be strictly observed.",
+    "source_url": "https://www.fssai.gov.in/"
+  },
+  {
+    "id": "reg-heavy-metal-microbial",
+    "title": "Mandatory Heavy Metal & Microbial Testing Limits for Formulations",
+    "authority": "Official Guidance (Pharmacopoeia Commission for Indian Medicine - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Regulatory",
+    "content": "Botanical and herb-mineral formulations must undergo certified testing for heavy metals (Lead, Arsenic, Cadmium, Mercury), aflatoxins, pesticide residues, and microbial load (E. coli, Salmonella, Total Yeast/Mould) to ensure consumer safety and export compliance.",
+    "source_url": "https://pcimconline.nic.in/"
+  },
+  {
+    "id": "reg-stability-testing-ich",
+    "title": "ICH Stability Testing Guidelines for Formulations",
+    "authority": "Official Guidance (ICH / CDSCO - Demo Summary)",
+    "jurisdiction": "Both",
+    "domain": "Regulatory",
+    "content": "Under ICH Q1A guidelines, formulations must undergo accelerated stability testing (40°C ± 2°C / 75% RH ± 5% RH for 6 months) and real-time long-term stability testing to substantiate shelf-life claims and degradation profiles before regulatory approval and commercial launch.",
+    "source_url": "https://cdsco.gov.in/"
+  },
+  {
+    "id": "reg-fda-botanical-drugs",
+    "title": "US FDA Guidance for Industry: Botanical Drug Development",
+    "authority": "Official Guidance (US FDA / CDER - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Regulatory",
+    "content": "The US FDA Botanical Drug Guidance outlines requirements for investigating and marketing botanical products as prescription drugs, emphasizing raw material batch-to-batch consistency, chemical fingerprinting, toxicological characterization, and clinical efficacy trials.",
+    "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/botanical-drug-development-guidance-industry"
+  },
+  {
+    "id": "reg-ema-herbal-guidelines",
+    "title": "European Medicines Agency (EMA): Committee on Herbal Medicinal Products (HMPC)",
+    "authority": "Official Guidance (EMA - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Regulatory",
+    "content": "In the EU, herbal formulations are evaluated under Directive 2004/24/EC for Traditional Herbal Medicinal Products (THMPD). Applicants must document at least 30 years of safe medicinal use (including at least 15 years within the EU) or submit full bibliographic/clinical safety data.",
+    "source_url": "https://www.ema.europa.eu/en/committees/committee-herbal-medicinal-products-hmpc"
+  },
+  {
+    "id": "reg-clinical-ctri-registration",
+    "title": "Clinical Trials Registry - India (CTRI) Mandatory Registration",
+    "authority": "Official Guidance (ICMR-CTRI - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Regulatory",
+    "content": "All prospective clinical trials and human safety evaluations for pharmaceuticals, ASU formulations, and clinical devices in India must be registered with the ICMR Clinical Trials Registry - India (CTRI) before enrolling the first participant.",
+    "source_url": "http://ctri.nic.in/"
+  },
+  {
+    "id": "reg-cdsco-medical-devices",
+    "title": "CDSCO Medical Device Rules 2017: Risk-Based Classification",
+    "authority": "Official Guidance (CDSCO - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Regulatory",
+    "content": "Diagnostic devices, drug delivery systems, and apparatus are classified into four risk classes (Class A low risk to Class D high risk) under Medical Device Rules 2017. Device patents should maintain alignment between claim features and regulated intended-use indications.",
+    "source_url": "https://cdsco.gov.in/"
+  },
+  {
+    "id": "reg-packaging-labeling",
+    "title": "Statutory Packaging, Labeling & Disclaimer Rules",
+    "authority": "Official Guidance (Legal Metrology & AYUSH Rules - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Regulatory",
+    "content": "Formulation labels must clearly state ingredients with active botanical parts and ratios, manufacturing batch, expiration date, storage conditions, manufacturer details, and statutory disclaimers. Misleading curative claims can attract sanctions under the Magic Remedies Act.",
+    "source_url": "https://consumeraffairs.nic.in/"
+  },
+  {
+    "id": "ip-designs-act-2000",
+    "title": "Industrial Design Registration under Designs Act 2000",
+    "authority": "Official Guidance (IP India / Designs Wing - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Design",
+    "content": "The Designs Act 2000 protects only the aesthetic, visual shape, configuration, pattern, or ornament applied to an article by industrial process. It does not protect functional mechanisms, processes, or formulations. Initial term is 10 years, extendable to 15 years.",
+    "source_url": "https://ipindia.gov.in/designs.htm"
+  },
+  {
+    "id": "ip-design-locarno-classification",
+    "title": "Locarno Classification for Industrial Designs",
+    "authority": "Official Guidance (WIPO / IP India - Demo Summary)",
+    "jurisdiction": "Both",
+    "domain": "Design",
+    "content": "Industrial designs are classified under the 32 classes of the Locarno Classification. Packaging bottles, dispensers, cosmetic containers, and delivery applicators for formulations belong in Class 09 (packages and containers).",
+    "source_url": "https://www.wipo.int/classifications/locarno/en/"
+  },
+  {
+    "id": "ip-hague-system-designs",
+    "title": "Hague System for the International Registration of Industrial Designs",
+    "authority": "Official Guidance (WIPO - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Design",
+    "content": "The Hague System enables innovators to register up to 100 industrial designs across multiple member countries through a single international application filed with WIPO, simplifying cross-border protection for consumer hardware and packaging designs.",
+    "source_url": "https://www.wipo.int/hague/en/"
+  },
+  {
+    "id": "ip-copyright-act-1957",
+    "title": "Copyright Protection under Indian Copyright Act 1957",
+    "authority": "Official Guidance (Copyright Office / DPIIT - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Copyright",
+    "content": "Copyright protects original literary, dramatic, musical, artistic works, cinematograph films, and sound recordings. Software source code and object code are protected as literary works. Protection exists automatically upon creation, but registration provides prima facie evidence in court.",
+    "source_url": "https://copyright.gov.in/"
+  },
+  {
+    "id": "ip-copyright-sec52-fair-dealing",
+    "title": "Section 52: Fair Dealing Exemptions in Indian Copyright Law",
+    "authority": "Official Guidance (Copyright Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Copyright",
+    "content": "Section 52 specifies acts that do not constitute copyright infringement, including private or personal use for research, criticism or review, reporting current events, and judicial or educational proceedings. Indian fair dealing is statutory and narrower than US 'fair use'.",
+    "source_url": "https://copyright.gov.in/"
+  },
+  {
+    "id": "ip-copyright-software-docs",
+    "title": "Copyright for Software Code, APIs and Technical Documentation",
+    "authority": "Official Guidance (Copyright Office - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Copyright",
+    "content": "While mathematical algorithms and ideas are not copyrightable, the specific expressive source code, user manuals, and architectural diagrams are copyrightable. When registering software with the Indian Copyright Office, source code extracts and object code samples are deposited.",
+    "source_url": "https://copyright.gov.in/"
+  },
+  {
+    "id": "ip-berne-convention",
+    "title": "Berne Convention for the Protection of Literary and Artistic Works",
+    "authority": "Official Guidance (WIPO - Demo Summary)",
+    "jurisdiction": "International",
+    "domain": "Copyright",
+    "content": "Under the Berne Convention, works originating in one contracting state are protected in all member states without any requirement of formal registration or compliance with formalities (principle of automatic protection). Term lasts for author's life plus 50 or 70 years.",
+    "source_url": "https://www.wipo.int/treaties/en/ip/berne/"
+  },
+  {
+    "id": "ip-trade-secret-protection",
+    "title": "Trade Secret Protection & Non-Disclosure Agreements (NDAs)",
+    "authority": "Official Guidance (Indian Contract Law & IP Practice - Demo Summary)",
+    "jurisdiction": "India",
+    "domain": "Trade Secret",
+    "content": "India protects trade secrets and confidential manufacturing formulas under the Indian Contract Act 1872 and common law breach of confidence. Maintaining strict internal secrecy, access restriction, and robust Non-Disclosure Agreements (NDAs) is vital before any patent filing.",
+    "source_url": "https://ipindia.gov.in/"
+  },
+  {
+    "id": "ip-patent-vs-trade-secret",
+    "title": "Strategic Dilemma: Patent Disclosure vs Trade Secret Secrecy",
+    "authority": "Official Guidance (WIPO IP Management - Demo Summary)",
+    "jurisdiction": "Both",
+    "domain": "Trade Secret",
+    "content": "Patents require full public disclosure in exchange for a 20-year monopoly; once published, competitors can design around the invention. Process know-how that cannot be reverse-engineered from the final product (e.g. secret fermentation conditions) is often best kept as a perpetual trade secret.",
+    "source_url": "https://www.wipo.int/tradesecrets/en/"
+  },
+  {
+    "id": "ip-defensive-publication-def",
+    "title": "Defensive Publication in Innovation Management",
+    "authority": "Official Guidance (IP Strategy Guide - Demo Summary)",
+    "jurisdiction": "Both",
+    "domain": "Patent",
+    "content": "When an innovator decides not to invest in patent prosecution for secondary improvements, deliberately publishing technical specs in defensive publication journals (such as Research Disclosure) establishes prior art, ensuring no competitor can ever patent that improvement against them.",
+    "source_url": "https://www.wipo.int/"
+  }
+]
